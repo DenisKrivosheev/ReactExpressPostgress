@@ -1,0 +1,6 @@
+export const admins_route = '/admin' 
+export const login_route = '/login' 
+export const register_route = '/register' 
+export const basket_route = '/basket' 
+export const device_route = '/device' 
+export const userpage_route = '/profile'
